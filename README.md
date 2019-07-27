@@ -23,3 +23,4 @@ Notes Spring Boot REST Service
 5. Perform the following GET request: localhost:8080/api/notes/2
 6. Perform the following GET request: localhost:8080/api/notes/300 (Should return a not found message)
 7. Peform the following GET request: localhost:8080/api/notes?query=milk
+8. (Bonus): Also has the ability to update and delete notes
