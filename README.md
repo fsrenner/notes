@@ -1,6 +1,7 @@
 # notes
-Notes Spring Boot REST Service Code Assessment
-=======
+Notes Spring Boot REST Service
+
+
 
 # Steps to run the notes application (requires Gradle)
 1. Clone the repository
